@@ -84,7 +84,6 @@ for better environmental awareness and decision-making.
 PowerBI--AQI-Analysis-Dashboard
 │
 ├── AQI Dashboard.pbix
-├── Dataset.csv
 ├── AQI Dashboard.png
 └── README.md
 </pre>
